@@ -1,0 +1,71 @@
+	body {
+		background-color:wheat;
+		font-family: calibri;
+	}
+
+	.banner {
+		image-align :center;
+	}
+
+	.header {
+		background-color:darkblue;
+		color:white;
+		text-align : center;
+	}
+
+	.nav {
+		width:250px;
+		float:right;
+	}
+
+	.nav ul {
+		list-style:none;
+	}
+
+	li a {
+		display: block;
+		color: black;
+		line-height: 15px;
+		text-align: center;
+		font-size: 15px;
+		text-decoration: none;
+		padding: 10px;
+		border: 2px black;
+		border-style: groove;
+		border-radius: 5px;
+		border-collapse: separate;
+		background-color: white;
+	}
+
+	li a:hover {
+		background: darkblue;
+		color:white;
+	}
+
+
+	.main {
+		width:600px;
+		float:right;
+		padding-bottom:15px;
+	}
+
+	.main2 {
+		width:250px;
+		float:left;
+		padding-bottom:15px;
+	}
+
+	.footer {
+		clear:both;
+		text-align : center;
+		background-color:darkblue;
+		color:white;
+		height: 30px;
+	}
+	
+	.peta {
+		width: 320px;
+		height: 280px;
+		padding-left: 50px;
+		padding-bottom: 20px;
+	}
